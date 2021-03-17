@@ -1,0 +1,17 @@
+.about-me {
+  background-color: lime;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100px;
+}
+.other {
+  font-size: x-large;
+  background-color: pink;
+  font-family: Helvetica;
+}
+.gato {
+  border-radius: 400px;
+
+}
